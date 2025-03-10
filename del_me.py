@@ -9,3 +9,5 @@ y = x**2
 print(y)
 
 print(x*y)
+
+print(x*x)
