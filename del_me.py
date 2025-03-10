@@ -7,3 +7,5 @@ print(x)
 y = x**2
 
 print(y)
+
+print(x*y)
