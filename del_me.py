@@ -4,4 +4,3 @@ x = np.arange(10)
 
 print(x)
 
-# added line
